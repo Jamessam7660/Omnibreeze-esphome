@@ -187,7 +187,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ## Credits
 
-Reverse engineered and developed by [@ea](https://github.com/ea) with assistance from Claude (Anthropic).
+Reverse engineered and developed by [@ea](https://github.com/phdindota) with assistance from Claude (Anthropic).
 
 ## Contributing
 
